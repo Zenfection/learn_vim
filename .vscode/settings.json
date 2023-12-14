@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": false,
+  "editor.fontSize": 16,
+  "workbench.colorTheme": "Noctis Minimus",
+  "editor.minimap.enabled": false,
+  "workbench.colorCustomizations": {
+    "[Noctis Minimus]": {
+      "titleBar.activeBackground": "#0e9de7",
+      "titleBar.activeForeground": "#ffffff"
+    }
+  },
+  "window.titleBarStyle": "custom",
+  // A few of the exercises intentionally have whitespace
+  "editor.trimAutoWhitespace": false,
+  "files.trimTrailingWhitespace": false,
+}

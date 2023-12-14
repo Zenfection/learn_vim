@@ -1,0 +1,6 @@
+{
+  // List of extensions recommended for this course
+  "recommendations": ["vscodevim.vim", "liviuschera.noctis"],
+  // List of extensions not to use for this course
+  "unwantedRecommendations": []
+}
